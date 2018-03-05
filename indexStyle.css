@@ -5,6 +5,18 @@
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
-    height: 400px;
+    /*height: 400px;*/
     
+}
+p {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    font-size: 20px;
+}
+p > a {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+a:hover {
+    color: #ccc;
 }
